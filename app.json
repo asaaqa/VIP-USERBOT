@@ -1,5 +1,5 @@
 {
-  "name": "𝐕𝐈𝐏 𝐔𝐒𝐄𝐑𝐁𝐎𝐓",
+  "name": "asaaq 𝐔𝐒𝐄𝐑𝐁𝐎𝐓",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
   "logo": "https://te.legra.ph/file/a350fd3eef952b5c11801.jpg",
   "keywords": [
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/THE-VIP-BOY-OP/VIP-USERBOT",
+  "repository": "https://github.com/asaaqa/Plugins-T",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -43,7 +43,7 @@
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "ʟᴇᴀᴠᴇ ᴛʜɪs ғɪᴇʟᴅ ʙʟᴀɴᴋ ғᴏʀ ʏᴏᴜʀ sᴀғᴇᴛʏ",
+      "description": "gajabshajsbsbs",
       "value": "",
       "required": false
     },    
