@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/asaaqa/Plugins-T",
+  "repository": "https://github.com/asaaqa/Farten",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -29,7 +29,7 @@
       "description": "Get this value from my.telegram.org",
       "value": ""
     },
-    "HELLBOT_SESSION": {
+    "STRING_SESSION": {
       "description": "Get HellBot Session From here:- ( https://t.me/LegendSessionBot ) . Read Repo for more info.",
       "value": ""
     },
@@ -46,6 +46,11 @@
       "description": "gajabshajsbsbs",
       "value": "",
       "required": false
+  },
+    "UPSTREAM_REPO": {
+      "description": "gajabshajsbsbs",
+      "value": "https://github.com/asaaqa/Farten",
+      "required": false 
     },    
     "ABUSE": {
       "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
